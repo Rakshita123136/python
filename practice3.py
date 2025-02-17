@@ -1,3 +1,8 @@
+# Minimum AND xor OR
+# Given an array 
+#  A of N integers. Find out the minimum value of the following expression for all valid i,j
+
+
 t = int(input())
 while t != 0:
     n = int(input())
